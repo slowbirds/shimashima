@@ -29,9 +29,9 @@ a: Change mode automatically or not.
 
 ## Requirement
 
-My developed environment:
-of_v0.8.4_osx_release
-Xcode Version 6.1.1
+My developed environment:  
+of_v0.8.4_osx_release  
+Xcode Version 6.1.1  
 
 ## Licence
 
