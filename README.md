@@ -1,13 +1,13 @@
 shimashima
 ====
 
-"shimashima" was created for shooting stripe image reacting to sounds.
-This is kind of a homage for [Ryoji Ikeda](http://www.ryojiikeda.com/).
-This was also created by [openFrameworks](http://www.openframeworks.cc/).
+"shimashima" was created for shooting stripe image reacting to sounds.  
+This is kind of a homage for [Ryoji Ikeda](http://www.ryojiikeda.com/).  
+This was also created by [openFrameworks](http://www.openframeworks.cc/).  
 
 ## Demo
 
-[YouTube]https://www.youtube.com/watch?v=3mMqRqEbx2o
+[YouTube](https://www.youtube.com/watch?v=3mMqRqEbx2o)
 
 ## How to use.
 
