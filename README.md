@@ -11,21 +11,21 @@ This was also created by [openFrameworks](http://www.openframeworks.cc/).
 
 ## How to use.
 
-Asigned key: Effect
-1: Mode Change to Phase LR
-2: Mode Change to Volume LR
-3: Mode Change to Volume LR (LR Random assigned freqency)
-4: Mode Change to Volume LR (R reversed)
-5: Mode Change to Volume LR (LR move vertically)
-6: Mode Change to Volume LR (LR 4 lines)
-7: Mode Change to Volume LR (LR 4 lines move vertically)
-8: Mode Change to Volume LR (LR 6 lines)
-9: Mode Change to Volume LR (LR 6 lines move vertically)
+Asigned key: Effect  
+1: Mode Change to Phase LR  
+2: Mode Change to Volume LR  
+3: Mode Change to Volume LR (LR Random assigned freqency)  
+4: Mode Change to Volume LR (R reversed)  
+5: Mode Change to Volume LR (LR move vertically)  
+6: Mode Change to Volume LR (LR 4 lines)  
+7: Mode Change to Volume LR (LR 4 lines move vertically)  
+8: Mode Change to Volume LR (LR 6 lines)  
+9: Mode Change to Volume LR (LR 6 lines move vertically)  
 
-f: Change to full screen or not.
-d: Display graphic user interface or not.
-v: Assign sound volume to brightness or not.
-a: Change mode automatically or not.
+f: Change to full screen or not.  
+d: Display graphic user interface or not.  
+v: Assign sound volume to brightness or not.  
+a: Change mode automatically or not.  
 
 ## Requirement
 
